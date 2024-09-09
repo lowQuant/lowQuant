@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @lowQuant
-- 👀 I’m interested in algorithmic trading & stuff.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on API usage - ib_insync & others..
-- 📫 How to reach me ...
+I'm a descretionary active fund manager in my profession, but a systematic trader in passion. 
+I develop my automated trading system and keep track of my research ideas on Github.
 
 <!---
 lowQuant/lowQuant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
