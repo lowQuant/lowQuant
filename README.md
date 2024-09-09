@@ -1,4 +1,5 @@
 I'm a descretionary active fund manager in my profession, but a systematic trader in passion. 
+
 I develop my automated trading system and keep track of my research ideas on Github.
 
 <!---
